@@ -20,9 +20,17 @@ A lightweight, command-line note-taking app inspired by Notion. Built for **CBSE
 - **Python** (Core language)
 - **SQLite** (Database)
 - **Libraries**: `sqlite3`, `hashlib`, `datetime`
+## Project Structure
 
-## 📄 Project Structure
-jotera/ ├── jotera.py # Main application code ├── final-cs-project.pdf # Complete project documentation ├── screenshots/ # All images used in README │ ├── 01-welcome-menu.png │ ├── 02-register.png │ └── ... (11 more) ├── README.md └── .gitignore
+jotera/
+├── jotera.py                 # Main application code
+├── final-cs-project.pdf      # Complete project documentation
+├── screenshots/              # All images used in README
+│   ├── 01-welcome-menu.png
+│   ├── 02-register.png
+│   └── ... (11 more)
+├── README.md
+└── .gitignore
 
 ## 📋 Project Details
 - **Team**: Aditya Patel, Suraj Bhartiya, Sahil Chaudhary, Mahir Chaudhary
