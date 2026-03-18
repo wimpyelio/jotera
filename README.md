@@ -66,7 +66,6 @@ tachments/assets/a3b434db-3b07-4858-8b90-db3b01d7b6d6" />
 <img width="985" height="231" alt="11-searchorsort" src="https://github.com/user-attachments/assets/e80e2496-9d76-4822-9318-14a7337dad5d" />
 
 ---
-
 ## 📄 Project Structure
 jotera/
 ├── jotera.py                 # Main application code
